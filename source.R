@@ -2,7 +2,7 @@
 ###    1: Import attached text file    ###
 ##########################################
 
-setwd("~/Documents/code/Marketing-Assessment")
+setwd("~/Documents/code/marketing-analysis")
 data=read.table("data/Test.txt", header=T, sep='\t')
 
 ###########################################
